@@ -1,0 +1,6 @@
+K:\MyCV_NewZealand\TradeMe\Assignment\ParseTheParcel_WebService\ParseTheParcel\ParseTheParcel\ParseTheParcelApp\bin\Debug\ParseTheParcelApp.exe.config
+K:\MyCV_NewZealand\TradeMe\Assignment\ParseTheParcel_WebService\ParseTheParcel\ParseTheParcel\ParseTheParcelApp\bin\Debug\ParseTheParcelApp.exe
+K:\MyCV_NewZealand\TradeMe\Assignment\ParseTheParcel_WebService\ParseTheParcel\ParseTheParcel\ParseTheParcelApp\bin\Debug\ParseTheParcelApp.pdb
+K:\MyCV_NewZealand\TradeMe\Assignment\ParseTheParcel_WebService\ParseTheParcel\ParseTheParcel\ParseTheParcelApp\obj\Debug\ParseTheParcelApp.exe
+K:\MyCV_NewZealand\TradeMe\Assignment\ParseTheParcel_WebService\ParseTheParcel\ParseTheParcel\ParseTheParcelApp\obj\Debug\ParseTheParcelApp.pdb
+K:\MyCV_NewZealand\TradeMe\Assignment\ParseTheParcel_WebService\ParseTheParcel\ParseTheParcel\ParseTheParcelApp\obj\Debug\ParseTheParcelApp.csprojResolveAssemblyReference.cache

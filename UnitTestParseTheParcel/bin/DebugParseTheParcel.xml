@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Packages>
+  <SmallPackage>
+    <PackageName>
+      Small Package
+    </PackageName>
+    <Dimension>
+      <Length>210</Length>
+      <Breadth>280</Breadth>
+      <Height>130</Height>
+    </Dimension>
+    <Cost>5</Cost>
+    <Weight>25</Weight>
+  </SmallPackage>
+  
+  <MediumPackage>
+    <PackageName>
+      Medium Package
+    </PackageName>
+    <Dimension>
+      <Length>280</Length>
+      <Breadth>390</Breadth>
+      <Height>180</Height>
+    </Dimension>
+     <Cost>7.5</Cost>
+     <Weight>25</Weight>
+  </MediumPackage>
+  
+  <LargePackage>
+    <PackageName>
+      Large Package
+    </PackageName>
+    <Dimension>
+      <Length>380</Length>
+      <Breadth>550</Breadth>
+      <Height>200</Height>
+    </Dimension>
+    <Cost>8.5</Cost>
+    <Weight>25</Weight>
+  </LargePackage>
+
+</Packages>

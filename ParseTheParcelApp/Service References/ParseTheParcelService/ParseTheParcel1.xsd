@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ParseTheParcel" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ParseTheParcel" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="PackageBase">
+    <xs:sequence />
+  </xs:complexType>
+  <xs:element name="PackageBase" nillable="true" type="tns:PackageBase" />
+</xs:schema>

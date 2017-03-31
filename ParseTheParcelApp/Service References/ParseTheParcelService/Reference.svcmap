@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5bdad8b2-71c3-448b-9ae6-a317af485598" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:3763/ParseTheParcel.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ParseTheParcel.xsd" MetadataType="Schema" ID="eb2b123d-fcc6-4ba7-8add-5dc38733b421" SourceId="1" SourceUrl="http://localhost:3763/ParseTheParcel.svc?xsd=xsd0" />
+    <MetadataFile FileName="ParseTheParcel1.xsd" MetadataType="Schema" ID="b72cd559-bee6-4fc5-a7cd-37d987c1a722" SourceId="1" SourceUrl="http://localhost:3763/ParseTheParcel.svc?xsd=xsd2" />
+    <MetadataFile FileName="ParseTheParcel2.xsd" MetadataType="Schema" ID="05cfb9da-9bee-47f1-9a83-7f744f67d094" SourceId="1" SourceUrl="http://localhost:3763/ParseTheParcel.svc?xsd=xsd1" />
+    <MetadataFile FileName="ParseTheParcel.disco" MetadataType="Disco" ID="e93ae2bb-1689-445c-b1b9-6d83300dab01" SourceId="1" SourceUrl="http://localhost:3763/ParseTheParcel.svc?disco" />
+    <MetadataFile FileName="ParseTheParcelPackage.wsdl" MetadataType="Wsdl" ID="45bbfdad-a0aa-498e-a506-e1c6ab44609e" SourceId="1" SourceUrl="http://localhost:3763/ParseTheParcel.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
